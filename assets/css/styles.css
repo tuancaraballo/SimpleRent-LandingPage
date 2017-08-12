@@ -1,0 +1,11 @@
+.col-md-4.col-sm-push-7.logo-hold {
+  background:url(../../assets/img/bl-logo.png) no-repeat;
+  background-size:cover;
+}
+
+.logo-hold {
+  background:url(../../assets/img/bl-logo.png);
+  background-size:100% 100%;
+  padding:98px;
+}
+
